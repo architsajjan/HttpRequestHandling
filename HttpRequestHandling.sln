@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpRequestHandling", "HttpRequestHandling.csproj", "{3F98DE24-0488-41BB-823B-3D2A2639DCA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F98DE24-0488-41BB-823B-3D2A2639DCA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F98DE24-0488-41BB-823B-3D2A2639DCA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F98DE24-0488-41BB-823B-3D2A2639DCA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F98DE24-0488-41BB-823B-3D2A2639DCA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {330A79CC-A365-4AAA-855E-772B7AFD1A49}
+	EndGlobalSection
+EndGlobal
